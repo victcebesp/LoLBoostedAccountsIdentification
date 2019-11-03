@@ -1,7 +1,7 @@
 # League of Legends boosted accounts detection. Data Science
 
 <p align="center">
-  <img width="460" height="300" src="images/lol_logo.png">
+  <img width="460" height="auto" src="images/lol_logo.png">
 </p>
 
 ## Domain description
